@@ -16,10 +16,10 @@ This is a simple and interactive sentiment analysis tool powered by Azure OpenAI
 ## 📁 Project Structure
 ```
 📦 sentiment-app/
-├── app.py # Main Streamlit app
-├── requirements.txt # Python dependencies
-├── .gitignore # Git ignored files
-└── .env # Environment variables (NOT committed in this Git repo)
+├── app.py                 # Main Streamlit app
+├── requirements.txt       # Python dependencies
+├── .gitignore             # Git ignored files (files instructed to not commit to the Git repo)
+└── .env                   # Environment variables (NOT committed in this Git repo)
 ```
 
 ---
