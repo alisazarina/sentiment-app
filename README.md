@@ -101,5 +101,6 @@ streamlit run app.py
 🖼️ Sample Screenshot
 
 ![Sentiment App Screenshot](sentiment-app-v1.png)
+![Sentiment App Screenshot2](sentiment-app-v1-results.png)
 
 
