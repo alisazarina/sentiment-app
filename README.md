@@ -91,6 +91,14 @@ streamlit run app.py
 
 - Make sure your .env file is filled correctly (no extra spaces or quotes).
 - Make sure your virtual environment is activated before running the app.
-- If streamlit is not recognized, try python -m streamlit run app.py.
+- If streamlit is not recognized, try:
+  ```
+  python -m streamlit run app.py.
+  ```
+
+---
+
+### Sample Screenshot:
+
 
 
