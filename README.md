@@ -93,7 +93,7 @@ streamlit run app.py
 - Make sure your virtual environment is activated before running the app.
 - If streamlit is not recognized, try:
   ```
-  python -m streamlit run app.py.
+  python -m streamlit run app.py
   ```
 
 ---
