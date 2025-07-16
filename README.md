@@ -100,5 +100,5 @@ streamlit run app.py
 
 ### Sample Screenshot:
 
-![Sentiment App Screenshot][sentiment-app-v1.png]
+[Sentiment App Screenshot][sentiment-app-v1.png]
 
