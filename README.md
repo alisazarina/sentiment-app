@@ -3,8 +3,14 @@
 This is a simple and interactive sentiment analysis tool powered by Azure OpenAI (GPT-4) and Streamlit. It supports multiple content types — text, URLs (simulated), images, PDFs, DOCX, and plain text files — for multilingual sentiment classification.
 
 ### // Update: Please take a look at this slide deck to detail the latest app functionality of this system.
-[Sentiment App Presentation.pdf](https://github.com/user-attachments/files/26143275/Sentiment-App-Presentation2.pdf)
+[Microsoft Code; Without Barriers Hackathon — Sentiment App Presentation.pdf](https://github.com/user-attachments/files/26143275/Sentiment-App-Presentation2.pdf)
 
+---
+
+🖼️ Sample Screenshot
+
+![Sentiment App Screenshot](sentiment-app-v1.png)
+![Sentiment App Screenshot2](sentiment-app-v1-results.png)
 
 ---
 
@@ -99,12 +105,4 @@ streamlit run app.py
   ```
   python -m streamlit run app.py
   ```
-
----
-
-🖼️ Sample Screenshot
-
-![Sentiment App Screenshot](sentiment-app-v1.png)
-![Sentiment App Screenshot2](sentiment-app-v1-results.png)
-
 
